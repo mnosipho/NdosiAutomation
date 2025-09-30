@@ -9,6 +9,14 @@ public class FakerDataGenerator {
     public static String firstName =faker.name().firstName();
     public static String address =faker.address().cityName();
     public static String surname =faker.name().lastName();
+
+//    @Test
+//    public void test(){git pull origin maingit pushmnosiphoNosipho20%
+//        System.out.println(firstName);
+//        System.out.println(address);
+//        System.out.println(surname);
+//
+//    }
 }
 
 
